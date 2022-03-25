@@ -1,1 +1,2 @@
-# SVC_FINAL_SUBMISSION_HUNT_THE_ZOMBIES
+# p5.play-boilerplate
+Boiler plate for p5.play
